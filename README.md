@@ -1,5 +1,5 @@
-# Calculator
+# OIBSIP-Task1-Tribute-Page
+Virtual Internship Task for OASIS INFOBYTE SIP Internship in Web Development ad Designing, Task 1 is about the Calculator is done.
 
-It is a Simple and Responsive calculator using HTML, CSS and Javascript.
 
 > Visit **[Website](https://damu48.github.io/Calculator/)**
